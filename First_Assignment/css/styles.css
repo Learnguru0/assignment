@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+.navbar-brand {
+    font-family: 'Fredoka One', cursive  !important; 
+    font-weight: 900;
+    font-size: 25px;
+}
+h1 {
+    font-family: 'Fredoka One', cursive  !important; 
+    font-weight: 900;
+    color: #434e5e;
+    letter-spacing: 1px;
+    margin: 30px 0px 30px 0;
+}
+h2 
+{
+    font-weight: 900;
+    font-family: 'Raleway', sans-serif;
+    color: #434e5e;
+}
+.navbar  {
+    background-color: #f2f2f2;
+}
+
+.visible-xs {
+font-weight: 900;
+    background-color: #fff;
+  border-bottom: 2px solid #f2f2f2;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.visible-xs:hover {
+
+    background-color: #f2f2f2;
+}
+
+.container {
+
+    background-color: #f2f2f2;
+    padding: 0 50px 0 50px;
+    
+}
